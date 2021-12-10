@@ -1,4 +1,4 @@
-public class MyClass {
+public class Exerc_Operadores_Relacionais {
     public static void main(String args[]) {
       
       // Declaração dos tipos de variáveis e atribuindo seus respectivos valores
