@@ -4,12 +4,15 @@
  </p> 
 <h1>Bootcamp Amdocs -  Java Developer</h1>
  
- 
-
-
-<h5> - Repositório das aulas com exercícios e desafios do Bootcamp</h5>
+ <h5> - Repositório das aulas com exercícios e desafios do Bootcamp</h5>
 <p align="Center">
   <img src="https://github.com/ws-pereira/bootcamp-amdocs-java-desafio-github/blob/main/Estudo_Gif_Animado.gif" width="300" >
+ </p>
+
+<h4><b> - IDE para Desenvolvimento</b></h4>
+
+<p align="Center">
+  <img src="https://github.com/ws-pereira/bootcamp-amdocs-java-developer/blob/main/Intellij-Logo.png" width="100" >
  </p>
 
 
