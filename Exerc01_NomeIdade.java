@@ -5,7 +5,7 @@
 import java.util.Scanner;
 import java.util.Calendar;
 
-public class Exerc1_NomeIdade {
+public class Exerc01_NomeIdade {
     public static void main(String args[]) {
         
         Scanner sc = new Scanner(System.in);
