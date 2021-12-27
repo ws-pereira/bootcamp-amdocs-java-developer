@@ -9,7 +9,7 @@
   <img src="https://github.com/ws-pereira/bootcamp-amdocs-java-desafio-github/blob/main/Estudo_Gif_Animado.gif" width="300" >
  </p>
 
-<h4><b> - IDE para Desenvolvimento</b></h4>
+<h4><b> - IDE para Desenvolvimento - (no momento estou apenas usando o compilador Online Java Compiler)</b></h4>
 
 <p align="Center">
   <img src="https://github.com/ws-pereira/bootcamp-amdocs-java-developer/blob/main/Intellij-Logo.png" width="100" >
